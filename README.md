@@ -5,7 +5,9 @@ I study Data Science and Artificial Intelligence at Applied Science University
 
 Skills 
 1- python introduction 
+
 2- python data analysis 
+
 3- java introduction 
 
 
