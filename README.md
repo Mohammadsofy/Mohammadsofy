@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Mohammad sofyn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+mohammad sofyan 
+
+
+I study Data Science and Artificial Intelligence at Applied Science University
+
+Skills 
+1- python introduction 
+2- python data analysis 
+3- java introduction 
+
+
 
 <!---
 Mohammadsofy/Mohammadsofy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
